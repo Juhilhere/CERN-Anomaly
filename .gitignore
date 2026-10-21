@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+data/
+cpp/*.exe
+cpp/masses_cpp.txt
+*.log
+LEARN.md
